@@ -15,7 +15,7 @@ const CONFIG = {
   STARTER_HERO_TITLE_2: '个人简介-分享个人见解', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '博客区', // 英雄区按钮
-  STARTER_HERO_BUTTON_1_URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_URL: ' ', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '添加微信', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
