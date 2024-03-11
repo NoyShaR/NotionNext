@@ -212,7 +212,7 @@ const CONFIG = {
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
   STARTER_CONTACT_TITLE: '联系我',
-  STARTER_CONTACT_TEXT: '如欢迎随时与我联系',
+  STARTER_CONTACT_TEXT: '欢迎与我联系',
   STARTER_CONTACT_LOCATION_TITLE: '我的位置',
   STARTER_CONTACT_LOCATION_TEXT: '四川省成都市
     四川大学华西校区东区
