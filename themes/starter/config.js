@@ -214,7 +214,7 @@ const CONFIG = {
   STARTER_CONTACT_TITLE: '联系我',
   STARTER_CONTACT_TEXT: '如欢迎随时与我联系',
   STARTER_CONTACT_LOCATION_TITLE: '我的位置',
-  STARTER_CONTACT_LOCATION_TEXT: '四川省成都市 <br /> <br />四川大学华西校区东区 <br /> <br />第三教学楼',
+  STARTER_CONTACT_LOCATION_TEXT: '四川省成都市 <br /> <br /> 四川大学华西校区东区 <br /> <br /> 第三教学楼',
   STARTER_CONTACT_EMAIL_TITLE: '我的邮箱',
   STARTER_CONTACT_EMAIL_TEXT: '',
 
