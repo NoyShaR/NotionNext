@@ -214,14 +214,12 @@ const CONFIG = {
   STARTER_CONTACT_TITLE: '联系我',
   STARTER_CONTACT_TEXT: '欢迎与我联系',
   STARTER_CONTACT_LOCATION_TITLE: '我的位置',
-  STARTER_CONTACT_LOCATION_TEXT: '四川省成都市
-    四川大学华西校区东区
-    第三教学楼',
+  STARTER_CONTACT_LOCATION_TEXT: '四川省成都市四川大学华西校区东区第三教学楼',
   STARTER_CONTACT_EMAIL_TITLE: '我的邮箱',
   STARTER_CONTACT_EMAIL_TEXT: '',
 
   // 嵌入外部表单
-  STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
+  //STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
   //   STARTER_CONTACT_MSG_TITLE: '向我们留言',
   //   STARTER_CONTACT_MSG_NAME: '姓名',
